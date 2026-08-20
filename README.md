@@ -2,3 +2,5 @@
 Meu primeiro repositório de PI :D
 
 Alterando o repositório remotamente
+
+alterando repositorio localmente
